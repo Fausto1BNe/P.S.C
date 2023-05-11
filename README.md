@@ -1,14 +1,14 @@
-Boas vindas ao meu perfil 💙
+**Boas vindas ao meu perfil** 💙
 
 Meu nome é Lucas Siqueira
 
--Estou estudando na Alura
+-Estou estudando na [Alura](https://cursos.alura.com.br/dashboard)
 
 -Estou me desenvolvendo na linguagem JavaScript
 
 -Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-Você entrar em contato comigo 📫
+**Você entrar em contato comigo** 📫
 
 luacasmais8000@gmail.com
 
